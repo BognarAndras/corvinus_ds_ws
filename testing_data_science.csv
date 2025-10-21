@@ -1,0 +1,373 @@
+price,size,rooms,from_owner,great_view,town,address,district,under_priced,only_here
+115000,37,1,0,0,Budapest,"5. kerület, (Belváros)",5,0,0
+145000,50,2,1,0,Budapest,"8. kerület, (Józsefváros – Palotanegyed), József körút",8,0,0
+130000,40,1,1,0,Budapest,"13. kerület, (Angyalföld), Petneházy utca 38",13,0,0
+150000,78,3,1,0,Budapest,"9. kerület, (Belső-Ferencváros), Bakáts utca 5",9,0,0
+180000,40,2,1,0,Budapest,"2. kerület, (Törökvész), Orló utca 19",2,0,0
+803686,155,4,0,1,Budapest,"2. kerület, (Rézmál), Felvinci út",2,0,0
+75000,35,1,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Telepy utca 28",9,0,0
+110000,59,2,0,0,Budapest,"7. kerület, (Külső-Erzsébetváros – Ligetváros), Damjanich utca",7,0,0
+100000,40,1,0,0,Budapest,"12. kerület, (Németvölgy), Győri út",12,0,0
+260000,79,3,0,0,Budapest,"11. kerület, (Kőérberek – Tóváros), Kánai út",11,0,0
+169900,62,2,0,0,Budapest,"7. kerület, (Középső-Erzsébetváros), Barcsay utca",7,0,0
+160000,80,2,0,0,Budapest,"6. kerület, (Külső-Terézváros), Eötvös utca",6,0,0
+185000,70,1,0,0,Budapest,"5. kerület, (Lipótváros), Október 6. utca 21",5,0,0
+230000,78,2,0,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Wesselényi utca",7,0,0
+130000,50,2,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Malmok), Drégely utca",9,0,0
+115000,40,1,0,0,Budapest,"6. kerület, (Külső-Terézváros), Izabella utca",6,0,0
+120000,40,1,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Vendel utca",9,0,0
+189000,57,2,0,0,Budapest,"2. kerület, (Rózsadomb), Rómer Flóris utca",2,0,0
+90000,38,1,0,0,Budapest,"5. kerület, (Lipótváros), Bank utca",5,0,0
+100000,39,1,0,0,Budapest,"5. kerület, (Lipótváros), Stollár Béla utca",5,0,0
+185000,67,2,0,0,Budapest,"5. kerület, (Lipótváros), Garibaldi utca",5,0,0
+1721500,283,6,1,0,Budapest,"5. kerület, (Belváros), Belgrád rakpart",5,0,0
+235000,90,3,0,0,Budapest,"5. kerület, (Belváros), Veres Pálné utca 10",5,0,0
+220000,75,2,0,0,Budapest,"5. kerület, (Belváros), Szép utca",5,0,0
+190000,79,2,0,0,Budapest,"5. kerület, (Belváros), Vámház körút 8",5,0,0
+240000,92,2,0,0,Budapest,"5. kerület, (Belváros), Váci utca",5,0,0
+250000,78,3,0,0,Budapest,"5. kerület, (Belváros), Veres Pálné utca",5,0,0
+200000,42,1,0,0,Budapest,"5. kerület, (Lipótváros), Széchenyi utca 1",5,0,0
+160000,62,2,0,0,Budapest,"5. kerület, (Belváros), Petőfi Sándor utca",5,0,0
+629920,167,3,0,0,Budapest,"5. kerület, (Belváros), Papnövelde utca",5,0,0
+360000,119,3,0,0,Budapest,"5. kerület, (Belváros), Vörösmarty tér",5,1,0
+300000,86,2,1,0,Budapest,"5. kerület, (Belváros), Molnár utca",5,0,0
+300000,70,2,1,0,Budapest,"5. kerület, (Belváros), Városház utca",5,0,0
+596000,98,4,1,0,Budapest,"5. kerület, (Belváros), Kecskeméti utca",5,0,0
+470640,96,3,1,0,Budapest,"5. kerület, (Lipótváros), Szalay utca 2",5,0,0
+430000,102,3,0,1,Budapest,"5. kerület, (Lipótváros), Zoltán utca",5,0,0
+597379,126,3,1,0,Budapest,"5. kerület, (Lipótváros), Hold utca 13",5,0,0
+250000,104,3,0,0,Budapest,"12. kerület, (Krisztinaváros – Városmajor), Városmajor utca",12,0,0
+250000,105,3,0,0,Budapest,"12. kerület, (Krisztinaváros), Városmajor utca",12,0,0
+600000,175,3,0,1,Budapest,"12. kerület, (Farkasvölgy)",12,0,0
+250000,72,2,0,0,Budapest,"12. kerület, (Virányos), Szarvas Gábor út",12,0,0
+220000,82,3,0,0,Budapest,"12. kerület, (Kissvábhegy), Tusnádi utca",12,0,0
+180000,66,2,0,0,Budapest,"12. kerület, (Istenhegy)",12,0,0
+235000,79,2,1,0,Budapest,"12. kerület, (Virányos), Dániel út 5/D",12,0,0
+165000,48,2,0,1,Budapest,"12. kerület, (Istenhegy), Tündér utca",12,0,0
+566730,100,4,0,1,Budapest,"12. kerület, (Mártonhegy), Deres utca",12,0,0
+210000,100,3,0,0,Budapest,"12. kerület, (Virányos), Zugligeti út",12,0,0
+190000,65,1,0,0,Budapest,"12. kerület, (Németvölgy), Apor Vilmos tér",12,0,0
+313000,132,3,0,0,Budapest,"12. kerület, (Orbánhegy), Szendrő köz",12,0,0
+425196,135,4,0,0,Budapest,"12. kerület, (Istenhegy – Diósárok)",12,0,0
+240000,90,3,0,0,Budapest,"12. kerület, (Istenhegy), Sárospatak út 30",12,0,0
+990000,279,5,0,0,Budapest,"12. kerület, (Krisztinaváros)",12,0,0
+220000,91,3,0,0,Budapest,"12. kerület, (Farkasvölgy), Törökbálinti út",12,0,0
+150000,77,3,1,0,Budapest,"19. kerület, (Wekerletelep), Kós Károly tér",19,0,0
+100000,80,3,0,0,Budapest,"19. kerület, (Wekerletelep), Mészáros Lőrinc utca",19,0,0
+90000,71,2,0,0,Budapest,"19. kerület, (Kispesti lakótelep), Nagysándor József utca",19,0,0
+92000,48,2,0,0,Budapest,"19. kerület, (Wekerletelep), Hungária út",19,0,0
+90000,71,2,0,0,Budapest,"19. kerület, (Kispesti lakótelep) (külterület)",19,0,0
+100000,50,2,0,0,Budapest,"19. kerület, (Kispesti lakótelep), Kossuth Lajos utca",19,0,0
+83000,55,2,0,0,Budapest,"19. kerület, (Kispesti lakótelep), Dobó Katica utca",19,0,0
+100000,68,3,0,0,Budapest,"19. kerület, (Kispesti lakótelep), Klapka utca",19,0,0
+60000,30,1,0,0,Budapest,"19. kerület, (Kispest), József Attila utca",19,0,0
+65000,31,1,0,0,Budapest,"19. kerület, (Kispest-Óváros), Báthory utca",19,0,0
+25000,9,0,0,0,Budapest,"19. kerület, (Kispesti lakótelep), Jáhn Ferenc utca",19,0,0
+50000,20,1,0,0,Budapest,"19. kerület, (Kispest-Óváros), Hunyadi tér 2",19,0,0
+50000,20,1,0,0,Budapest,"19. kerület, (Kispest-Óváros), Hunyadi tér",19,0,0
+92000,53,2,0,0,Budapest,"19. kerület, (Kispesti lakótelep), Kosárfonó utca",19,0,0
+105000,69,2,0,0,Budapest,"19. kerület, (Kispest), Ady Endre út 97-99",19,0,0
+60000,42,1,0,0,Budapest,"23. kerület, (Soroksár – Orbánhegy), Tájkép utca 7",23,0,0
+36000,25,2,0,0,Budapest,"23. kerület, (Soroksár), Gyékény utca 23",23,0,0
+220000,76,3,0,1,Budapest,"1. kerület, (Víziváros), Iskola utca",1,0,0
+140000,70,2,0,0,Budapest,"1. kerület, (Krisztinaváros – Váralja), Logodi utca 71.",1,0,0
+170000,53,1,0,0,Budapest,"1. kerület, (Krisztinaváros – Váralja), Attila út",1,0,0
+140000,48,2,0,0,Budapest,"1. kerület, (Víziváros – Váralja), Szabó Ilonka utca",1,0,0
+440000,184,5,1,0,Budapest,"1. kerület, (Krisztinaváros – Naphegy), Aladár utca",1,0,0
+210000,73,2,1,0,Budapest,"1. kerület, (Vár), Fortuna utca",1,0,0
+341231,110,3,1,0,Budapest,"1. kerület, (Víziváros – Váralja), Donáti utca 9-11.",1,0,0
+295000,107,3,1,0,Budapest,"1. kerület, (Krisztinaváros), Gellérthegy utca",1,0,0
+210000,68,2,0,0,Budapest,"1. kerület, (Víziváros)",1,0,1
+140000,60,2,0,0,Budapest,"1. kerület, (Víziváros – Váralja), Várfok utca",1,0,0
+240000,113,3,0,0,Budapest,"1. kerület, (Krisztinaváros)",1,0,0
+188976,95,3,0,0,Budapest,"1. kerület, (Víziváros), Bem rakpart",1,0,0
+270000,105,3,1,0,Budapest,"1. kerület, (Krisztinaváros – Váralja), Logodi utca",1,0,0
+158000,41,1,0,0,Budapest,"1. kerület, (Krisztinaváros – Naphegy), Naphegy tér",1,0,0
+80000,28,1,0,0,Budapest,"2. kerület, (Víziváros), Fazekas utca",2,0,0
+248360,86,2,0,0,Budapest,"2. kerület, (Szemlőhegy), Szemlőhegy utca",2,1,0
+158000,45,2,0,0,Budapest,"2. kerület, (Víziváros), Ganz utca 5",2,0,0
+180000,70,2,0,0,Budapest,"2. kerület, (Vérhalom), Ali utca",2,0,0
+150000,56,2,0,0,Budapest,"2. kerület, (Felhévíz), Török utca 5",2,0,0
+260000,90,3,0,0,Budapest,"2. kerület, (II/A kerület – Adyliget), Rézsű utca",2,0,0
+130000,55,2,0,0,Budapest,"2. kerület, (Víziváros), Szász Károly utca",2,0,0
+120000,45,1,0,0,Budapest,"2. kerület, (Felhévíz), Komjádi Béla utca 3",2,0,0
+130000,48,1,0,0,Budapest,"2. kerület, (Kurucles), Tárogató út",2,0,0
+130000,71,2,1,0,Budapest,"2. kerület, (Országút), Fillér utca",2,0,0
+295000,103,2,1,0,Budapest,"2. kerület, (Pálvölgy), Szépvölgyi út",2,0,0
+780000,132,3,1,0,Budapest,"2. kerület, (Szépilona), Labanc út 17",2,0,0
+120000,87,2,0,1,Budapest,"2. kerület, (Országút), Mecset utca",2,0,0
+570000,134,4,1,0,Budapest,"2. kerület, (Szemlőhegy), Szeréna út",2,0,0
+180000,100,3,1,0,Budapest,"2. kerület, (Országút), Szilágyi Erzsébet fasor",2,0,0
+275000,94,3,1,0,Budapest,"2. kerület, (Országút), Ezredes utca",2,0,0
+743400,133,3,0,1,Budapest,"2. kerület, (Vérhalom), Gárdonyi Géza út 27-33.",2,0,0
+120000,54,2,0,0,Budapest,"4. kerület, (Újpest-Központ), Erzsébet utca",4,0,0
+95000,72,2,0,0,Budapest,"4. kerület, (Újpesti lakótelep), Virág utca",4,0,0
+100000,55,2,0,0,Budapest,"4. kerület, (Káposztásmegyer I. lakótelep), Intarzia utca",4,0,0
+89000,67,2,0,0,Budapest,"4. kerület, (Káposztásmegyer I. lakótelep), Dunakeszi utca",4,0,0
+105000,71,2,0,0,Budapest,"4. kerület, (Újpesti lakótelep), Bárdos Artúr utca",4,0,0
+100000,55,2,0,0,Budapest,"4. kerület, (Megyer – Izzó lakótelep), Káposztásmegyeri út",4,0,0
+65000000,32,1,0,0,Budapest,"4. kerület, (Újpest), Nádor utca",4,0,0
+80000,50,2,0,0,Budapest,"4. kerület, (Újpest), Lőwy Izsák utca",4,0,0
+110000,49,1,0,0,Budapest,"4. kerület, (Káposztásmegyer – Homoktövis lakópark), Homoktövis utca",4,0,0
+150000,117,3,0,0,Budapest,"4. kerület, (Újpest-Központ)",4,0,0
+120000,54,1,0,0,Budapest,"4. kerület, (Újpest-Központ), Petőfi utca 11",4,0,0
+140000,58,2,0,0,Budapest,"4. kerület, (Újpest-Kertváros), Lahner György utca",4,0,0
+150000,79,2,0,0,Budapest,"4. kerület, (Újpest), Csányi László utca",4,0,0
+90000000,56,2,0,0,Budapest,"4. kerület, (Megyer – Izzó lakótelep), Erdősor út",4,0,0
+680000,156,2,1,0,Budapest,"6. kerület, (Belső-Terézváros), Ó utca 6",6,0,0
+165000,53,1,0,0,Budapest,"6. kerület, (Külső-Terézváros), Eötvös utca 19",6,0,0
+150000,52,1,0,0,Budapest,"6. kerület, (Külső-Terézváros – Diplomatanegyed), Benczúr utca",6,0,0
+110000,40,1,0,0,Budapest,"6. kerület, (Külső-Terézváros), Podmaniczky utca 39",6,0,0
+150000,70,2,0,0,Budapest,"6. kerület, (Külső-Terézváros – Diplomatanegyed), Rippl-Rónai utca",6,0,0
+349000,105,3,0,0,Budapest,"6. kerület, (Külső-Terézváros), Andrássy út 91",6,0,0
+180000,60,2,0,0,Budapest,"6. kerület, (Külső-Terézváros), Szinyei Merse Pál utca 13",6,0,0
+100000,25,1,0,0,Budapest,"6. kerület, (Belső-Terézváros), Király utca",6,0,0
+275000,85,3,0,0,Budapest,"6. kerület, (Belső-Terézváros), Zichy Jenő utca 35",6,0,0
+360882,129,3,0,0,Budapest,"6. kerület, (Belső-Terézváros), Liszt Ferenc tér",6,0,0
+199000,53,2,1,0,Budapest,"6. kerület, (Külső-Terézváros), Szondi utca 51",6,0,0
+130000,47,2,0,0,Budapest,"6. kerület, (Külső-Terézváros), Felső erdősor",6,1,0
+220000,65,2,1,0,Budapest,"6. kerület, (Külső-Terézváros), Eötvös utca 32",6,0,0
+145000,52,2,1,0,Budapest,"6. kerület, (Külső-Terézváros – Diplomatanegyed), Délibáb utca",6,0,0
+200000,78,2,1,0,Budapest,"6. kerület, (Belső-Terézváros), Dessewffy utca",6,0,0
+120000,68,2,0,1,Budapest,"6. kerület, (Külső-Terézváros), Bajnok utca",6,0,0
+460000,115,2,0,1,Budapest,"6. kerület, (Külső-Terézváros), Kodály körönd 87",6,0,0
+130000,41,1,0,0,Budapest,"11. kerület, (Kelenföld), Kanizsai utca",11,0,0
+120000,43,1,0,0,Budapest,"11. kerület, (Lágymányos – Műegyetem környéke), Kende utca",11,0,0
+140000,42,1,0,0,Budapest,"11. kerület, (Sashegy), Hegyalja út",11,0,0
+250000,92,3,0,0,Budapest,"11. kerület, (Szentimreváros), Vásárhelyi Pál utca 12",11,0,0
+140000,78,2,0,0,Budapest,"11. kerület, (Lágymányos – Műegyetem környéke), Budafoki út 17/a",11,0,0
+160000,51,2,0,0,Budapest,"11. kerület, (Kelenföld), Szerémi út",11,0,0
+371400,176,4,0,0,Budapest,"11. kerület, (Hosszúrét)",11,0,0
+375000,81,3,1,0,Budapest,"11. kerület, (Gellérthegy), Iglói utca",11,0,0
+240000,75,3,1,0,Budapest,"11. kerület, (Kelenföld), Daróczi út",11,0,0
+240000,76,2,1,0,Budapest,"11. kerület, (Sasad), Maléter Pál utca",11,0,0
+310000,75,3,1,0,Budapest,"11. kerület, (Lágymányos), Siroki utca",11,0,0
+250000,132,3,1,0,Budapest,"11. kerület, (Sasad), Brassó út",11,0,0
+312380,55,2,0,1,Budapest,"11. kerület, (Kelenföldi lakótelep), Etele út 28",11,0,0
+120000,36,1,1,0,Budapest,"11. kerület, (Szentimreváros), Karolina út 34/b",11,0,0
+245000,91,2,1,0,Budapest,"11. kerület, (Kelenföldi lakótelep), Nagykikinda utca",11,0,0
+150000,58,2,0,0,Budapest,"11. kerület, (Szentimreváros)",11,0,0
+150000,47,1,0,0,Budapest,"11. kerület, (Lágymányos), Irinyi József utca",11,0,0
+75000,55,2,0,0,Budapest,"11. kerület, (Kelenföld), Bartók Béla út",11,0,0
+998464,273,7,0,1,Budapest,"11. kerület, (Gellérthegy), Kelenhegyi út",11,0,0
+190000,68,3,0,0,Budapest,"11. kerület, (Kelenföld), Andor utca",11,0,0
+83000,58,2,0,0,Budapest,"18. kerület, (Liptáktelep), Darányi Ignác utca 2",18,0,0
+35000,25,1,0,0,Budapest,"18. kerület, (Havanna lakótelep), Havanna utca 5",18,0,0
+135000,170,2,0,0,Budapest,"18. kerület, (Újpéteritelep)",18,0,0
+130000,69,1,0,0,Budapest,"18. kerület, (Szent Imre-kertváros), Fogaras utca",18,0,0
+110000,64,2,0,0,Budapest,"18. kerület, (Miklóstelep), Ráday Gedeon utca",18,0,0
+48000,15,1,0,0,Budapest,"18. kerület, (Ganz-kertváros), Rudawszky utca",18,0,0
+85000,42,1,0,0,Budapest,"18. kerület, (Havanna lakótelep), Havanna utca",18,0,0
+113000,74,3,0,0,Budapest,"18. kerület, (Almáskert), Kerékkötő utca",18,0,0
+150000,68,3,0,0,Budapest,"18. kerület, (Rendessytelep), Németh József utca",18,0,0
+135000,170,3,0,0,Budapest,"18. kerület, (Újpéteritelep), Lőrinci út",18,0,0
+130000,165,3,0,0,Budapest,"18. kerület, (Újpéteritelep), Törvény utca",18,0,0
+135000,170,2,0,0,Budapest,"18. kerület, (Újpéteritelep), Lőrinci út 8",18,0,0
+90000000,56,2,0,0,Budapest,"18. kerület, (Szent Lőrinc lakótelep), Riesz Frigyes utca",18,0,0
+90000,36,1,0,0,Budapest,18. kerület (külterület),18,0,0
+80000,36,1,0,0,Budapest,"18. kerület, (Lakatos-lakótelep), Dolgozó út",18,0,0
+95000,38,1,0,0,Budapest,"18. kerület, (Liptáktelep), Reviczky Gyula utca",18,0,0
+120000,63,1,0,0,Budapest,"18. kerület, (Krepuska Géza-telep), Tölgy utca 5",18,0,0
+195000,112,3,1,0,Budapest,Gerinc utca Budafok – Rózsavölgy 22. kerület,22,0,0
+250000,90,3,0,0,Budapest,Jonatán köz Nagytétény – Óhegy 22. kerület,22,0,0
+100000,66,2,0,0,Budapest,Nagytétényi út Nagytétény 22. kerület,22,0,0
+90000,49,2,0,0,Budapest,Rákóczi út Budatétény – Rózsakert utcai lakótelep 22. kerület,22,0,0
+55000,38,1,0,0,Budapest,Anna utca Budafok 22. kerület,22,0,0
+60000,70,1,0,0,Budapest,Széchenyi utca Budafok 22. kerület,22,0,0
+100000,70,1,0,0,Budapest,Budafok – Rózsavölgy 22. kerület,22,0,0
+95000,49,2,0,0,Budapest,Nagytétényi út Nagytétény – Bartók Béla úti lakótelep 22. kerület,22,0,0
+80000,28,1,0,0,Budapest,Őrnagy utca Budafok 22. kerület,22,0,0
+120000,56,2,0,0,Budapest,Ady Endre út 23 Budafok – Rózsavölgy 22. kerület,22,0,0
+120000,60,2,0,0,Budapest,Gyula vezér út Budatétény 22. kerület,22,0,0
+45000,34,1,0,0,Budapest,Arany János utca 94/A Budafok 22. kerület,22,0,0
+120000,65,2,0,0,Budapest,Mézesfehér utca Budafok 22. kerület,22,0,0
+180000,77,2,0,0,Budapest,Tengeri utca 9 Budafok – Rózsavölgy 22. kerület,22,0,0
+98000,43,1,0,0,Budapest,Budatétény 22. kerület,22,0,0
+160000,56,2,0,0,Budapest,"3. kerület, (Békásmegyer – Pünkösdfürdő), Pünkösdfürdő utca",3,0,0
+200000,64,3,0,0,Budapest,"3. kerület, (Óbuda – Filatorigát), Hunor utca 30",3,0,0
+349000,156,5,0,0,Budapest,"3. kerület, (Testvérhegy), Testvérhegyi út",3,0,0
+200000,70,2,0,0,Budapest,"3. kerület, (Remetehegy), Perényi út",3,0,0
+180000,77,2,0,0,Budapest,"3. kerület, (Óbuda-Óváros), Bécsi út",3,0,0
+120000,45,1,0,0,Budapest,"3. kerület, (Csillaghegy – Forrásliget lakópark), Újliget sétány 3.",3,0,0
+148000,56,2,0,0,Budapest,"3. kerület, (Rómaifürdő – Rómaipart), Nánási út 2.",3,0,0
+150000,56,2,0,0,Budapest,"3. kerület, (Csillaghegy – Forrásliget lakópark), Tündérliget utca",3,0,0
+140000,68,3,1,0,Budapest,"3. kerület, (Óbudai lakótelep), Vörösvári út 1",3,0,0
+300000,100,3,0,1,Budapest,"3. kerület, (Csillaghegy), Pünkösdfürdő utca",3,0,0
+180000,49,2,0,1,Budapest,"3. kerület, (Békásmegyer – Pünkösdfürdő), Királyok útja",3,0,0
+776125,200,5,0,0,Budapest,"3. kerület, (Rómaifürdő – Rómaipart), Nánási út",3,0,0
+140000,60,2,0,0,Budapest,"3. kerület, (Mátyáshegy), Flóra utca",3,0,0
+250000,104,4,0,0,Budapest,"3. kerület, (Újlak), Doberdó út",3,0,0
+150000,73,2,0,0,Budapest,"3. kerület, (Óbuda-Óváros), Kiscelli utca",3,0,0
+110000,52,2,0,0,Budapest,"3. kerület, (Rómaifürdő – Pók utcai lakótelep), Vízimolnár utca",3,0,0
+218000,90,3,0,0,Budapest,"3. kerület, (Rómaifürdő), Emőd utca",3,0,0
+280000,125,4,0,0,Budapest,"3. kerület, (Mocsárosdűlő), Gladiátor utca",3,0,0
+496720,140,4,0,0,Budapest,"3. kerület, (Táborhegy)",3,0,0
+80000,27,1,0,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Nagy Diófa utca 3",7,0,0
+130000,58,2,0,0,Budapest,"7. kerület, (Külső-Erzsébetváros), Garay utca",7,0,0
+190000,90,3,0,0,Budapest,"7. kerület, (Külső-Erzsébetváros), István utca",7,0,0
+99000,37,1,0,0,Budapest,"7. kerület, (Középső-Erzsébetváros), Szövetség utca",7,0,0
+120000,38,1,0,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Kazinczy utca",7,0,0
+125000,37,1,0,0,Budapest,"7. kerület, (Külső-Erzsébetváros – Ligetváros), Murányi utca",7,0,0
+130000,34,1,0,0,Budapest,"7. kerület, (Középső-Erzsébetváros), Vörösmarty utca",7,0,0
+124000,42,1,0,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Dohány utca",7,0,0
+378000,61,3,0,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Dob utca",7,0,0
+169472,55,2,0,1,Budapest,"7. kerület, (Belső-Erzsébetváros), Akácfa utca 6.",7,0,0
+150000,40,1,1,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Károly körút",7,0,0
+195000,95,2,1,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Rákóczi út 38",7,0,0
+170000,60,2,0,0,Budapest,"7. kerület, (Belső-Erzsébetváros), Dohány utca 30",7,1,0
+160000,48,2,0,0,Budapest,"7. kerület, (Középső-Erzsébetváros), Izabella utca",7,0,0
+150000,70,2,0,0,Budapest,"13. kerület, (Angyalföld), Madarász Viktor utca 13",13,0,0
+115000,60,1,1,0,Budapest,"13. kerület, (Angyalföld – Országbíró utcai lakótelep), Röppentyű köz 1",13,0,0
+200000,78,2,1,0,Budapest,"13. kerület, (Újlipótváros), Gyöngyház utca",13,0,0
+140000,40,1,0,0,Budapest,"13. kerület, (Angyalföld), Béke utca 13",13,0,0
+990000,373,1,1,0,Budapest,"13. kerület, (Újlipótváros), Hegedűs Gyula utca 49-51",13,0,0
+250000,67,2,0,0,Budapest,"13. kerület, (Újlipótváros), Victor Hugo utca",13,0,0
+225000,56,2,0,0,Budapest,"13. kerület, (Újlipótváros), Pozsonyi út",13,0,0
+130000,35,1,0,0,Budapest,"13. kerület, (Újlipótváros), Visegrádi utca",13,0,0
+120000,32,1,0,0,Budapest,"13. kerület, (Angyalföld), Béke tér 74",13,0,0
+140000,43,2,0,0,Budapest,"13. kerület, (Vizafogó), Véső utca",13,0,0
+150000,49,1,0,0,Budapest,"13. kerület, (Újlipótváros), Hegedűs Gyula utca",13,0,0
+120000,43,1,0,0,Budapest,"13. kerület, (Angyalföld – Lőportárdűlő), Csata utca",13,0,0
+150000,60,2,0,0,Budapest,"13. kerület, (Újlipótváros), Balzac utca 48",13,0,0
+280000,90,3,0,0,Budapest,"13. kerület, (Angyalföld – Lőportárdűlő), Lőportár utca",13,0,0
+115000,42,2,0,0,Budapest,"13. kerület, (Angyalföld), Mór utca",13,0,0
+150000,60,1,0,0,Budapest,"13. kerület, (Angyalföld), Petneházy utca",13,0,0
+100000,30,1,0,0,Budapest,"13. kerület, (Angyalföld), Csata utca",13,0,0
+120000,49,2,0,0,Budapest,"13. kerület, (Vizafogó lakótelep), Népfürdő utca",13,0,0
+180000,50,2,0,0,Budapest,"14. kerület, (Istvánmező), Ilka utca",14,0,0
+200000,90,3,0,0,Budapest,"14. kerület, (Alsórákos), Beckó utca",14,0,0
+150000,63,1,0,0,Budapest,"14. kerület, (Alsórákos), Gvadányi utca",14,0,0
+180000,60,2,0,0,Budapest,"14. kerület, (Alsórákos), Kalocsai utca",14,0,0
+140000,44,1,0,0,Budapest,"14. kerület, (Alsórákos), Örs vezér útja",14,0,0
+270000,95,3,1,0,Budapest,"14. kerület, (Törökőr), Columbus utca",14,0,0
+185000,78,2,1,0,Budapest,"14. kerület, (Istvánmező), Ida utca",14,0,0
+120000,55,1,1,0,Budapest,"14. kerület, (Alsórákos), Gyarmat utca",14,0,0
+180000,50,2,0,0,Budapest,"14. kerület, (Alsórákos), Csernyus utca",14,0,0
+160000,50,2,0,0,Budapest,"14. kerület, (Alsórákos), Egressy út",14,0,0
+160000,48,2,0,0,Budapest,"14. kerület, (Nagyzugló), Egressy út",14,0,0
+300000,96,4,0,0,Budapest,"14. kerület, (Alsórákos)",14,0,0
+120000,74,3,0,0,Budapest,"14. kerület, (Alsórákos), Léka utca",14,0,0
+120000,50,1,0,0,Budapest,"14. kerület, (Herminamező), Columbus utca",14,0,0
+180000,95,3,0,0,Budapest,"14. kerület, (Kiszugló), Thököly út",14,0,0
+120000,42,1,0,0,Budapest,"14. kerület, (Alsórákos – Mogyoródi–Jerney úti lakótelep), Csernyus utca",14,0,0
+180000,95,3,0,0,Budapest,"14. kerület, (Herminamező), Thököly út",14,0,0
+299212,80,3,0,0,Budapest,"14. kerület, (Istvánmező), Ajtósi Dürer sor",14,0,0
+120000,72,2,0,0,Budapest,Rákoskeresztúr 17. kerület,17,0,0
+185000,60,1,0,0,Budapest,17. kerület,17,0,0
+80000,70,1,0,0,Budapest,Madárdomb 17. kerület,17,0,0
+50000,36,1,0,0,Budapest,Bakancsos utca Rákoskeresztúri lakótelep 17. kerület,17,0,0
+90000000,49,2,0,0,Budapest,Kaszáló utca 1 Rákoskeresztúr 17. kerület,17,0,0
+50000,36,1,0,0,Budapest,Pesti út Rákoskert 17. kerület,17,0,0
+80000,64,2,0,0,Budapest,Sima utca Rákoskeresztúr 17. kerület,17,0,0
+100000,47,2,0,0,Budapest,"20. kerület, (Erzsébetfalva), Kende Kanuth utca",20,0,0
+100000,57,2,0,0,Budapest,"20. kerület, (Erzsébetfalva), Helsinki út",20,0,0
+70000,42,1,0,0,Budapest,"20. kerület, (Erzsébetfalva – Pesterzsébeti lakótelep), Kossuth Lajos utca",20,0,0
+100000,54,2,0,0,Budapest,"20. kerület, (Erzsébetfalva – Pesterzsébeti lakótelep), Határ út",20,0,0
+99000,46,1,0,0,Budapest,"20. kerület, (Gubacs – Mediterrán lakópark), Téglagyártó utca 13/A",20,0,0
+55000,30,1,0,0,Budapest,"20. kerület, (Gubacsipuszta), Magyar utca",20,0,0
+60000,41,1,0,0,Budapest,"20. kerület, (Erzsébetfalva), Tátra tér",20,0,0
+85000,57,2,0,0,Budapest,"20. kerület, (Erzsébetfalva), Ady Endre utca",20,0,0
+90000,69,2,0,0,Budapest,"20. kerület, (Erzsébetfalva – Pesterzsébeti lakótelep), Lajtha László utca 10-14",20,0,0
+80000,75,2,0,0,Budapest,"20. kerület, (Erzsébetfalva), Tátra tér 4",20,0,0
+120000,59,2,0,0,Budapest,"20. kerület, (Gubacsipuszta)",20,0,0
+20000,15,1,0,0,Budapest,"20. kerület, (Gubacsipuszta), Eperjes utca",20,0,0
+120000,57,2,0,0,Budapest,"20. kerület, (Erzsébetfalva – Pesterzsébeti lakótelep), Határ út 1.",20,0,0
+230000,110,3,0,0,Budapest,"20. kerület, (Erzsébetfalva), Albert utca",20,0,0
+30000,10,1,0,0,Budapest,"20. kerület, (Gubacsipuszta – Eperjes utcai lakótelep), Pacsirta utca",20,0,0
+38000,20,1,0,0,Budapest,"20. kerület, (Erzsébetfalva – Pesterzsébeti lakótelep), Baross utca",20,0,0
+130000,75,2,0,0,Budapest,"20. kerület, (Pacsirtatelep)",20,0,0
+140000,70,2,0,0,Budapest,"20. kerület, (Erzsébetfalva – Pesterzsébeti lakótelep), Pázsitos sétány 1-3",20,0,0
+78000,24,1,0,0,Budapest,"8. kerület, (Józsefváros – Csarnoknegyed), Auróra utca 5",8,0,0
+145000,42,1,0,0,Budapest,"8. kerület, (Józsefváros – Corvinnegyed), Corvin sétány 34",8,0,0
+150000,60,2,1,0,Budapest,"8. kerület, (Józsefváros – Palotanegyed), Blaha Lujza tér",8,0,0
+95000,45,1,0,0,Budapest,"8. kerület, (Józsefváros – Corvinnegyed), Leonardo Da Vinci utca",8,0,0
+160000,84,3,0,0,Budapest,"8. kerület, (Századosnegyed), Százados út 15-17/B",8,0,0
+120000,59,1,0,0,Budapest,"8. kerület, (Józsefváros – Népszínháznegyed), Népszínház utca 34",8,0,0
+135000,38,1,0,0,Budapest,"8. kerület, (Józsefváros – Palotanegyed), Rákóczi út 11.",8,0,0
+200000,116,3,0,0,Budapest,"8. kerület, (Józsefváros – Népszínháznegyed), Rákóczi út",8,0,0
+185000,50,2,0,0,Budapest,"8. kerület, (Józsefváros – Corvinnegyed), Corvin sétány",8,0,0
+145000,42,1,0,0,Budapest,"8. kerület, (Józsefváros – Corvinnegyed)",8,0,0
+150000,52,2,1,0,Budapest,"8. kerület, (Józsefváros – Palotanegyed), Horánszky utca",8,0,0
+148000,58,2,0,0,Budapest,"8. kerület, (Józsefváros – Palotanegyed), Mária utca 22",8,1,0
+140000,89,3,1,0,Budapest,"8. kerület, (Józsefváros – Corvinnegyed), Üllői út",8,0,0
+100000,68,2,0,0,Budapest,"8. kerület, (Józsefváros – Csarnoknegyed), Salétrom utca",8,1,0
+187524,51,1,0,0,Budapest,"8. kerület, (Józsefváros – Palotanegyed), Szentkirályi utca",8,0,0
+140000,65,2,0,0,Budapest,"8. kerület, (Józsefváros – Csarnoknegyed), Bérkocsis utca",8,0,0
+120000,51,2,0,0,Budapest,"9. kerület, (Belső-Ferencváros), Tompa utca 13",9,0,0
+130000,59,2,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Bokréta utca",9,0,0
+120000,48,2,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Angyal utca 36",9,0,0
+120000,50,1,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Thaly Kálmán utca",9,0,0
+120000,67,3,0,0,Budapest,"9. kerület, (József Attila lakótelep), Pöttyös utca 9/A",9,0,0
+130000,49,2,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Ernő utca",9,0,0
+119000,45,1,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Gát utca",9,0,0
+120000,55,2,0,0,Budapest,"9. kerület, (József Attila lakótelep), Epreserdő utca",9,0,0
+170000,58,2,0,1,Budapest,"9. kerület, (Belső-Ferencváros), Vámház körút 11",9,0,0
+490000,92,3,0,1,Budapest,"9. kerület, (Középső-Ferencváros – Millenniumi városközpont), Lechner Ödön fasor",9,0,0
+180000,52,2,1,0,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Üllői út 91",9,0,0
+140000,65,2,0,1,Budapest,"9. kerület, (Középső-Ferencváros – Rehabilitációs terület), Vendel utca 32",9,0,0
+140000,58,2,1,0,Budapest,"9. kerület, (Belső-Ferencváros), Ráday utca",9,0,0
+220000,65,2,0,0,Budapest,"9. kerület, (Középső-Ferencváros), Mester utca",9,0,0
+250000,91,2,0,0,Budapest,"9. kerület, (Belső-Ferencváros), Üllői út",9,0,0
+95000,40,2,0,0,Budapest,"9. kerület, (Belső-Ferencváros), Ferenc körút",9,0,0
+95000,39,2,0,0,Budapest,"9. kerület, (Középső-Ferencváros)",9,0,0
+241558,60,3,0,0,Budapest,"9. kerület, (Középső-Ferencváros – Malmok), Dandár utca",9,0,0
+120000,50,1,1,0,Budapest,"10. kerület, (Népliget), Kőbányai út 43/a",10,0,0
+110000,63,2,0,0,Budapest,"10. kerület, (Kőbánya – Óhegy), Harmat utca",10,0,0
+140000,50,2,0,0,Budapest,"10. kerület, (Gyárdűlői lakótelep), Üllői köz",10,0,0
+125000,56,2,0,0,Budapest,"10. kerület, (Felsőrákos), Juhász utca",10,0,0
+130000,120,3,0,0,Budapest,"10. kerület, (Felsőrákos), Váltó utca",10,0,0
+78000,28,1,0,0,Budapest,"10. kerület, (Felsőrákos), Halas utca",10,0,0
+100000,52,1,0,0,Budapest,"10. kerület, (Gyakorló utcai lakótelep), Gyakorló utca 4",10,0,0
+90000,27,1,0,0,Budapest,"10. kerület, (Gyakorló utcai lakótelep), Gyakorló utca",10,0,0
+160000,110,3,0,0,Budapest,"10. kerület, (Kőbánya – Óhegy), Cserkesz utca",10,0,0
+119000,52,2,0,0,Budapest,"10. kerület, (Gyárdűlő), Balkán utca 7",10,0,0
+65000,28,1,0,0,Budapest,"10. kerület, (Kőbánya – Óhegy), Vörösdinka utca 7",10,0,0
+230000,144,4,0,0,Budapest,"10. kerület, (Felsőrákos), Heves utca",10,0,0
+120000,45,1,0,0,Budapest,"10. kerület, (Kőbánya – Óhegy), Sörgyár utca",10,0,0
+195000,68,2,0,0,Budapest,"10. kerület, (Felsőrákos), Hatház utca",10,0,0
+100000,55,2,0,0,Budapest,"10. kerület, (Kőbánya – Újhegyi lakótelep), Oltó utca",10,0,0
+90000,60,2,0,0,Budapest,"10. kerület, (Gyárdűlői lakótelep), Üllői út",10,0,0
+70000,54,2,0,0,Budapest,"10. kerület, (Kőbánya – Óhegyi lakótelep), Kada utca",10,0,0
+100000,33,1,0,0,Budapest,"10. kerület, (Kőbánya – Újhegyi lakótelep), Tavas utca",10,0,0
+115000,86,3,0,0,Budapest,Rákospalotai Körvasút sor Pestújhely 15. kerület,15,0,0
+99000,45,1,0,0,Budapest,Rákos út Rákospalota – MÁV-telep 15. kerület,15,0,0
+100000000,35,1,0,0,Budapest,Páskom park Újpalota 15. kerület,15,0,0
+65000,20,1,0,0,Budapest,Neptun utca Pestújhely 15. kerület,15,0,0
+100000,55,1,0,0,Budapest,Drégelyvár utca Újpalota 15. kerület,15,0,0
+75000,45,1,0,0,Budapest,Mézeskalács tér 5 Pestújhely 15. kerület,15,0,0
+94900,50,2,0,0,Budapest,Nyírpalota út Újpalota 15. kerület,15,0,0
+60000,15,1,0,0,Budapest,Beller Imre utca Rákospalota 15. kerület,15,0,0
+65000,45,1,0,0,Budapest,Kőrakás park Újpalota 15. kerület,15,0,0
+85000,37,1,0,0,Budapest,Neptun utca Újpalota 15. kerület,15,0,0
+80000,47,1,0,0,Budapest,Páskomliget utca Újpalota 15. kerület,15,0,0
+100000,48,1,0,0,Budapest,Kinizsi utca Rákospalota 15. kerület,15,0,0
+75000,46,1,0,0,Budapest,Palotás tér Rákospalota 15. kerület,15,0,0
+100000,48,2,0,0,Budapest,Őrjárat utca Rákospalota 15. kerület,15,0,0
+70000,39,1,0,0,Budapest,Eötvös utca Rákospalota 15. kerület,15,0,0
+120000,53,2,0,0,Budapest,Nyírpalota út 93 Újpalota 15. kerület,15,0,0
+110000,55,1,0,0,Budapest,Népfelkelő utca Rákospalota 15. kerület,15,0,0
+100000,68,2,0,0,Budapest,Nádastó park 10 Újpalota 15. kerület,15,0,0
+90000,48,2,0,0,Budapest,"16. kerület, (Sashalom), Kicsi utca",16,0,0
+200000,185,4,0,0,Budapest,"16. kerület, (Cinkota), Vízesés utca",16,0,0
+127000,48,2,0,0,Budapest,"16. kerület, (Ómátyásföld – Erzsébetliget), Újszász utca",16,0,0
+110000,65,1,0,0,Budapest,"16. kerület, (Ómátyásföld)",16,0,0
+90000,58,2,0,0,Budapest,"16. kerület, (Sashalom – Egyenes utcai lakótelep), Kerepesi út",16,0,0
+135000,105,2,0,0,Budapest,"16. kerület, (Rákosszentmihály), Csömöri út",16,0,0
+130000,57,1,0,0,Budapest,"16. kerület, (Újmátyásföld – Centenáriumi lakótelep), Dóra tér",16,0,0
+170000,150,4,0,0,Budapest,"16. kerület, (Árpádföld), Menyhért utca",16,0,0
+160000,150,4,0,0,Budapest,"16. kerület, (Cinkota)",16,0,0
+80000,46,1,0,0,Budapest,"16. kerület, (Rákosszentmihály – Szent Korona lakótelep), Tavirózsa utca",16,0,0
+110000,46,1,0,0,Budapest,"16. kerület, (Rákosszentmihály – Szent Korona lakótelep), Szalmarózsa utca",16,0,0
+25000,15,1,0,0,Budapest,"16. kerület, (Ómátyásföld), Csinszka utca",16,0,0
+130000,76,1,0,0,Budapest,"16. kerület, (Rákosszentmihály), Anna utca",16,0,0
+117000,48,2,0,0,Budapest,"16. kerület, (Ómátyásföld), Újszász utca",16,0,0
+125000,35,1,0,0,Budapest,"16. kerület, (Sashalom – Egyenes utcai lakótelep)",16,0,0
+80000,49,1,0,0,Budapest,"21. kerület, (Csepel-Erdősor lakótelep), Cirmos sétány",21,0,0
+78000,36,1,0,0,Budapest,"21. kerület, (Csepel-Gyártelep), Telep utca",21,0,0
+100000,58,2,0,0,Budapest,"21. kerület, (Csepel-Belváros), Kossuth Lajos utca",21,0,0
+24000,16,1,0,0,Budapest,"21. kerület, (Csepel-Kertváros), Kassai utca",21,0,0
+69000,36,1,0,0,Budapest,"21. kerület, (Csepel-Csillagtelep – Rakéta utcai lakótelep), Rakéta utca",21,0,0
+85000,55,2,0,0,Budapest,"21. kerület, (Csepel-Csillagtelep – Rakéta utcai lakótelep), Szabadság utca 27",21,0,0
+130000,50,2,0,0,Budapest,"21. kerület, (Csepel – Ady Endre úti lakótelep), Ady Endre út",21,0,0
+120000,60,2,0,0,Budapest,"21. kerület, (Csepel-Ófalu), II. Rákóczi Ferenc út",21,0,0
+677830,360,1,0,0,Budapest,"21. kerület, (Csepel-Szigetcsúcs), Szállító utca",21,0,0
